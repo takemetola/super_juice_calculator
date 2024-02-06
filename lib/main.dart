@@ -55,7 +55,6 @@ class SimpleTextInput extends StatelessWidget {
               },
             ),
           ),
-          // Add more widgets below if needed
         ],
       ),
     );
